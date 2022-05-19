@@ -2,14 +2,16 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E6CC8B">
+    android:background="#DFB77B">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:paddingTop="8dp"
         android:text="Bienvenido"
-        android:textSize="20dp"
-        >
+        android:layout_marginLeft="50dp"
+        android:textColor="@color/black"
+        android:textSize="20dp">
 
     </TextView>
 

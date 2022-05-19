@@ -2,15 +2,15 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="176dp"
-    android:padding="16dp"
+    android:layout_height="196dp"
+    android:padding="14dp"
     android:theme="@style/ThemeOverlay.AppCompat.Dark"
-    android:background="#E6CC8B">
+    android:background="#DFB77B">
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher_round">
+        android:src="@drawable/ethi">
 
     </ImageView>
 
@@ -18,9 +18,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingTop="8dp"
-        android:text="Ethiwo"
         android:textColor="@color/black"
-        android:textSize="20dp"
+        android:textSize="22dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1">
 
     </TextView>
@@ -28,9 +27,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ethiwo@gmail.com"
-        android:textSize="16dp"
-        android:textColor="@color/black">
+
+        android:textColor="@color/black"
+        android:textSize="18dp">
 
     </TextView>
 
