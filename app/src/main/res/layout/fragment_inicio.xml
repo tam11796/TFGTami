@@ -5,10 +5,10 @@
     android:background="#DFB77B">
 
     <TextView
-        android:layout_width="120dp"
-        android:layout_height="60dp"
-        android:paddingTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Bienvenido"
+        android:layout_marginTop="40dp"
         android:layout_marginLeft="50dp"
         android:textColor="@color/black"
         android:textSize="20dp">
